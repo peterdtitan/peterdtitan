@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Peter+Okorafor+here...;I'm+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Peter+Okorafor+here...;I'm+a+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
@@ -54,7 +54,10 @@
 
 #### Git Stats
 
-
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peterdtitan&show_icons=true&locale=en&layout=compact" alt="Peter Okorafor" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peterdtitan&show_icons=true&locale=en" alt="Peter Okorafor" />
+</p>
 
 
 [twitter]: https://twitter.com/PeterDeTitan
