@@ -1,7 +1,8 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Peter...;A+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Peter+Okorafor+here...;I'm+full+stack+developer;Nice+to+have+you+here;)](https://git.io/typing-svg)
 
+![line](./img/line.gif)
 
 ## I'm a Developer, Sustainable Tech Advocate, and Teacher!!
 
@@ -9,6 +10,8 @@
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love playing football and the guitar 😻 
+
+![line](./img/line.gif)
 
 ### Connect with me:
 [![peterdtitan@gmail.com.com](./img/gmail.svg)](mailto:peterdtitan@gmail.com)
@@ -21,6 +24,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/peterdtitan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/peterdtitan#gh-dark-mode-only)
+
+![line](./img/line.gif)
 
 ### Languages and Tools:
 
@@ -41,8 +46,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://youtu.be/oxuRxtrO2Ag)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://youtu.be/oxuRxtrO2Ag)
+
 <br />
 <br />
+
+![line](./img/line.gif)
+
+#### Git Stats
+
+
 
 
 [twitter]: https://twitter.com/PeterDeTitan
