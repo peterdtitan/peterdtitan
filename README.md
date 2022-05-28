@@ -44,16 +44,6 @@
 <br />
 <br />
 
-#### Git Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterdtitan&show_icons=true&locale=en&layout=compact" alt="Peter Okorafor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterdtitan&show_icons=true&locale=en" alt="Peter Okorafor" /></p>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
-</p>
-
 
 [twitter]: https://twitter.com/PeterDeTitan
 [instagram]: https://instagram.com/codeSTACKr
