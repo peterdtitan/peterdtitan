@@ -56,10 +56,6 @@
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterdtitan&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/peterdtitan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdtitan&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/peterdtitan/github-readme-stats)
 
-### WAKATIME STATS &nbsp; <img src="./computer.png" height="40" align="justify"/>
-
-[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peterdtitan&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/peterdtitan/github-readme-stats)
-
 
 [twitter]: https://twitter.com/PeterDeTitan
 [instagram]: https://instagram.com/peterdtitan
