@@ -4,11 +4,11 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer, Sustainable Tech Advocate, and Teacher!!
+## I'm a Full-Stack Developer 😄😄
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2023 Goals: Learn more about web3
+- 🌱 I’m currently learning Ruby x Ruby on Rails.
+- 👯 I’m looking to collaborate with other software developers.
+- 🥅 2023 Goals: Learn more about web3 and contribute to open source.
 - ⚡ Fun fact: I love playing football and the guitar 😻 
 
 ![line](./img/line.gif)
@@ -35,10 +35,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />](https://deno.land/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
@@ -58,6 +55,5 @@
 
 
 [twitter]: https://twitter.com/PeterDeTitan
-[instagram]: https://instagram.com/peterdtitan
 [linkedin]: https://linkedin.com/in/peterokorafor
 
