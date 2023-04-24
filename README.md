@@ -21,9 +21,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/peterokorafor#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/peterokorafor#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/peterdtitan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/peterdtitan#gh-dark-mode-only)
 
 ![line](./img/line.gif)
 
