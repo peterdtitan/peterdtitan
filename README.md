@@ -63,21 +63,8 @@
 <p align="left">
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.credential.net/eb95bf12-53e8-4d9e-8413-bb423be966db#gs.yfg7hp" target="blank">
-  <img src="./img/html-css-badge.png" width="80">
-</a>
+<a href="https://www.credential.net/eb95bf12-53e8-4d9e-8413-bb423be966db#gs.yfg7hp" target="blank"><img src="./img/html-css-badge.png" width="80"></a>&nbsp;<a href="https://www.credential.net/fa76271b-1e4b-4bc2-ae47-43828c52a843#gs.yfg8lc" target="blank"><img src="./img/js-badge.png" width="80"></a>&nbsp;<a href="https://www.credential.net/e9020b6a-0c15-4150-804a-3ef748299966#gs.yfg9ow" target="blank"><img src="./img/react-badge.png" width="80"></a> &nbsp;&nbsp;
 
-&nbsp; 
-<a href="https://www.credential.net/fa76271b-1e4b-4bc2-ae47-43828c52a843#gs.yfg8lc" target="blank">
-  <img src="./img/js-badge.png" width="80">
-</a>
-
-&nbsp; 
-<a href="https://www.credential.net/e9020b6a-0c15-4150-804a-3ef748299966#gs.yfg9ow" target="blank">
-  <img src="./img/react-badge.png" width="80">
-</a> &nbsp; 
-
-&nbsp;
 </p>
 
 
