@@ -4,11 +4,11 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer, Sustainable Tech Advocate, and Teacher!!
+## I'm a Full-Stack Developer 😄😄
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about web3
+- 🌱 I’m currently learning Ruby x Ruby on Rails.
+- 👯 I’m looking to collaborate with other software developers.
+- 🥅 2023 Goals: Learn more about web3 and contribute to open source.
 - ⚡ Fun fact: I love playing football and the guitar 😻 
 
 ![line](./img/line.gif)
@@ -21,9 +21,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/peterokorafor#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/peterokorafor#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/peterdtitan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/peterdtitan#gh-dark-mode-only)
 
 ![line](./img/line.gif)
 
@@ -38,6 +35,7 @@
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-plain.svg" style="padding-right:10px;" />](https://gorails.com/)
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" style="padding-right:10px;" />](https://django.com/)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
@@ -52,12 +50,10 @@
 
 ![line](./img/line.gif)
 
-#### Git Stats
+### MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peterdtitan&show_icons=true&locale=en&layout=compact" alt="Peter Okorafor" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=peterdtitan&show_icons=true&locale=en" alt="Peter Okorafor" /> -->
-</p>
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterdtitan&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdtitan&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 ![line](./img/line.gif)
 
@@ -71,6 +67,5 @@
 
 
 [twitter]: https://twitter.com/PeterDeTitan
-[instagram]: https://instagram.com/peterdtitan
 [linkedin]: https://linkedin.com/in/peterokorafor
 
