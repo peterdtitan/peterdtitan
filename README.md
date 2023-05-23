@@ -34,11 +34,12 @@
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-plain.svg" style="padding-right:10px;" />](https://ruby-lang.org/)
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-plain.svg" style="padding-right:10px;" />](https://gorails.com/)
-[<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" style="padding-right:10px;" />](https://django.com/)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+[<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" style="padding-right:10px;" />](https://www.djangoproject.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+[<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg" style="padding-right:10px;" />](https://docker.com)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
@@ -57,13 +58,27 @@
 
 ![line](./img/line.gif)
 
-#### Certificates and Licenses
+### Certificates and Licenses
 
-<h2 align="left">Certificates & Licenses</h2>
 <p align="left">
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.credential.net/0c912494-c044-42a3-8b73-c531cea29ffa#gs.h30tbv" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/adc69a71-894e-45a0-85d3-bbbd0d980a69#gs.h30sen" target="blank"><img src="./assets/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/6ea5deac-f17c-433c-9a79-c515ff2dc91e#gs.h30s78" target="blank"><img src="./assets/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/00b5bea8-2527-43e8-826d-2276828aa33b#gs.h30r6r" target="blank"><img src="./assets/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/96975384-f94c-4c86-9128-388db6380b3e#gs.h30qd2" target="blank"><img src="./assets/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/118d685d-f9e4-4d40-923f-743e5202344f#gs.h30kft" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a> &nbsp; 
+<a href="https://www.credential.net/eb95bf12-53e8-4d9e-8413-bb423be966db#gs.yfg7hp" target="blank">
+  <img src="./img/html-css-badge.png" width="80">
+</a>
+
+&nbsp; 
+<a href="https://www.credential.net/fa76271b-1e4b-4bc2-ae47-43828c52a843#gs.yfg8lc" target="blank">
+  <img src="./img/js-badge.png" width="80">
+</a>
+
+&nbsp; 
+<a href="https://www.credential.net/e9020b6a-0c15-4150-804a-3ef748299966#gs.yfg9ow" target="blank">
+  <img src="./img/react-badge.png" width="80">
+</a> &nbsp; 
+
+&nbsp;
+</p>
 
 
 [twitter]: https://twitter.com/PeterDeTitan
